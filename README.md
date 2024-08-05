@@ -2,7 +2,7 @@
 
 ## Made using - React, Material UI, Nivo Charts, Formik, Yup
 
-![image](https://github.com/user-attachments/assets/b8427436-3bc5-4384-938d-5f896ae2c31f)
+![image](https://github.com/user-attachments/assets/43886ec2-5272-42c8-8cae-f79374f706d3)
 
 # Features
 
@@ -24,13 +24,11 @@
   
 # Images
 
-![image](https://github.com/user-attachments/assets/b7c68964-56ac-48b7-acfa-277a24611c21)
-![image](https://github.com/user-attachments/assets/eac0a71e-0744-4a42-8b01-50cb7a19ded5)
-![image](https://github.com/user-attachments/assets/2ba26a82-b66d-47c8-8a89-f09dc3b54956)
-![image](https://github.com/user-attachments/assets/892251db-bd74-49f6-ac5b-7044d98dd3a8)
-![image](https://github.com/user-attachments/assets/7d18528b-197d-4c0c-84eb-d17f94651c42)
-![image](https://github.com/user-attachments/assets/eab04f11-91d2-4bb8-a8d6-23b203fc1012)
-![image](https://github.com/user-attachments/assets/dd02638d-5131-49d8-a361-8664fc14ea2a)
-![image](https://github.com/user-attachments/assets/c762d591-8ff6-4429-9422-ab10d205be1d)
+![image](https://github.com/user-attachments/assets/1f51ad65-4082-424c-82c1-c251b75deb26)
+![image](https://github.com/user-attachments/assets/7e89791b-b4af-471a-8dde-d2e9e969c251)
+![image](https://github.com/user-attachments/assets/5fb26542-3e89-4bec-916e-ebf27d2a44e7)
+![image](https://github.com/user-attachments/assets/def8a95b-4477-45c7-a30e-902fa5372045)
+![image](https://github.com/user-attachments/assets/07f3ebae-c78f-4088-8119-7ac6b9b6920e)
+![image](https://github.com/user-attachments/assets/db7760e9-891a-46b0-9e30-5bc0654dc58d)
 
 Made by - Garvit Bhatia
